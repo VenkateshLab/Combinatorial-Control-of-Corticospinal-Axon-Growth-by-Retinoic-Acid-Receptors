@@ -29,10 +29,11 @@ Detailed instructions and parameters are provided in the [CUT&RUN README.](Cut%2
 **Single-nucleus RNA sequencing**  
 The snRNA-seq workflow uses a custom mouse reference containing AAV-GFP, AAV-RARA, and AAV-RARG transgene sequences. The repository includes a Docker-based Cell Ranger script for generating gene–barcode count matrices from FASTQ files. Downstream analyses compare RARA, RARG, and combined RARA/RARG conditions with GFP controls and include differential-expression, gene-overlap, heatmap, and Gene Ontology analyses.  
 Detailed analysis and figure descriptions are provided in the [snRNA-seq README.](snRNA/README.md "snRNA/README.md")  
+
 **Getting started**  
 Clone the repository and enter its directory:  
 git clone <https://github.com/VenkateshLab/Combinatorial-Control-of-Corticospinal-Axon-Growth-by-Retinoic-Acid-Receptors>  
- cd <rCombinatorial-Control-of-Corticospinal-Axon-Growth-by-Retinoic-Acid-Receptors>  
+cd <"Combinatorial-Control-of-Corticospinal-Axon-Growth-by-Retinoic-Acid-Receptors">  
    
 Before running either workflow, update the input-data and reference-genome paths in the relevant shell script. The scripts assume paired-end FASTQ input and access to the indicated command-line tools.  
 Run the CUT&RUN workflow from its directory:  
