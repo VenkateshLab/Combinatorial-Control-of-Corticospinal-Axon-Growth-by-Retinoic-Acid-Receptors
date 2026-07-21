@@ -1,0 +1,4 @@
+"Category","Term","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact","Full Term","User Ids"
+"GOTERM_BP_DIRECT","regulation of neuron apoptotic process","2","31","38","26481","4.22e-2","1.00e+0","44.96","1.00e+0","1.00e+0","9.08e-4","GO:0043523~regulation of neuron apoptotic process","UBB,NAE1"
+"GOTERM_BP_DIRECT","neuron projection morphogenesis","2","31","90","26481","9.71e-2","1.00e+0","18.98","1.00e+0","1.00e+0","4.98e-3","GO:0048812~neuron projection morphogenesis","UBB,LIFR"
+

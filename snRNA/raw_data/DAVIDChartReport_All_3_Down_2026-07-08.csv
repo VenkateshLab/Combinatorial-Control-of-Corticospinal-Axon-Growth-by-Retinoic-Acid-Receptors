@@ -1,0 +1,10 @@
+"Category","Term","Count","List Total","Pop Hits","Pop Total","P-Value","Benjamini","Fold Enrichment","Bonferroni","FDR","Fisher Exact","Full Term","User Ids"
+"GOTERM_BP_DIRECT","cell differentiation","5","38","779","26481","2.28e-2","1.00e+0","4.47","9.99e-1","1.00e+0","4.89e-3","GO:0030154~cell differentiation","MOSMO,SYT3,CCDC85B,SIAH1A,PRKD1"
+"GOTERM_BP_DIRECT","positive regulation of cell size","2","38","23","26481","3.17e-2","1.00e+0","60.60","1.00e+0","1.00e+0","4.98e-4","GO:0045793~positive regulation of cell size","RB1CC1,PRKD1"
+"GOTERM_BP_DIRECT","axon extension","2","38","33","26481","4.51e-2","1.00e+0","42.23","1.00e+0","1.00e+0","1.03e-3","GO:0048675~axon extension","LHX2,MAPT"
+"GOTERM_BP_DIRECT","regulation of multicellular organism growth","2","38","34","26481","4.65e-2","1.00e+0","40.99","1.00e+0","1.00e+0","1.09e-3","GO:0040014~regulation of multicellular organism growth","GHR,SIAH1A"
+"GOTERM_BP_DIRECT","ubiquitin-dependent protein catabolic process","3","38","255","26481","4.93e-2","1.00e+0","8.20","1.00e+0","1.00e+0","5.81e-3","GO:0006511~ubiquitin-dependent protein catabolic process","PSMA2,SIAH1A,HERPUD1"
+"GOTERM_BP_DIRECT","actin cytoskeleton organization","3","38","259","26481","5.07e-2","1.00e+0","8.07","1.00e+0","1.00e+0","6.06e-3","GO:0030036~actin cytoskeleton organization","STARD13,THSD7B,SSH1"
+"GOTERM_BP_DIRECT","heart development","3","38","333","26481","7.88e-2","1.00e+0","6.28","1.00e+0","1.00e+0","1.20e-2","GO:0007507~heart development","MOSMO,RB1CC1,CEP290"
+"GOTERM_BP_DIRECT","embryonic skeletal system development","2","38","65","26481","8.70e-2","1.00e+0","21.44","1.00e+0","1.00e+0","3.94e-3","GO:0048706~embryonic skeletal system development","MOSMO,DEAF1"
+
