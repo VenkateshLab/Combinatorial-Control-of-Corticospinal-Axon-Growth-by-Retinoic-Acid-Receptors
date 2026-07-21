@@ -56,7 +56,6 @@ The Cell Ranger script currently requests 40 CPU cores and 200 GB of memory. Adj
 Software versions and analysis parameters should be kept consistent with those documented in the individual workflows.  
 **Data and reproducibility**  
 Large raw sequencing files and reference-genome resources are not stored in this repository. Place data in the locations expected by each workflow, or revise the directory variables in the scripts. The analysis scripts are intended to document the computational workflow and may require adaptation to local file names, sample identifiers, and computing resources.  
-The current manuscript-oriented methods summary is available in [Methods_Draft.md. Items in square brackets are placeholders that should be completed before publication.](Methods_Draft.md "Methods_Draft.md")  
 **Citation**  
 If you use this code or associated data, please cite the accompanying publication. Full citation details will be added when available.  
 **Contact**  
