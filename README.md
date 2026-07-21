@@ -33,7 +33,7 @@ Detailed analysis and figure descriptions are provided in the [snRNA-seq README.
 **Getting started**  
 Clone the repository and enter its directory:  
 git clone <https://github.com/VenkateshLab/Combinatorial-Control-of-Corticospinal-Axon-Growth-by-Retinoic-Acid-Receptors>  
-cd <"Combinatorial-Control-of-Corticospinal-Axon-Growth-by-Retinoic-Acid-Receptors">  
+cd Combinatorial-Control-of-Corticospinal-Axon-Growth-by-Retinoic-Acid-Receptors  
    
 Before running either workflow, update the input-data and reference-genome paths in the relevant shell script. The scripts assume paired-end FASTQ input and access to the indicated command-line tools.  
 Run the CUT&RUN workflow from its directory:  
